@@ -1,0 +1,14 @@
+.Home_Heading {
+  color: #0067a5;
+  font-family: "Roboto", sans-serif;
+  font-weight: 800;
+  font-size: 150%;
+}
+
+.R1Card_Container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin: auto;
+  width: 75rem;
+}

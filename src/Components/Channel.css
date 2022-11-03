@@ -1,0 +1,81 @@
+#Main_Channel_Box {
+  background-color: rgb(0, 103, 165, 1);
+  box-shadow: 0 2px 15px 0 rgb(0 0 0 / 30%);
+  height: 13rem;
+  margin: auto;
+}
+
+#Channel_Box {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Channel_Heading {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-size: 180%;
+}
+
+#Channel1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Channel1_logo {
+  width: 120px;
+  height: 120px;
+  /* background-color: rgb(223, 160, 31); */
+  background-color: white;
+  border-radius: 50%;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  line-height: 120px;
+  font-weight: bold;
+}
+
+#Channel1_info {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 120%;
+  margin-top: 12px;
+  margin-left: 12px;
+  text-align: start;
+}
+
+#Channel2 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.Channel2_logo {
+  height: 120px;
+  width: 120px;
+  /* background-color: rgb(223, 160, 31); */
+  background-color: white;
+  border-radius: 50%;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  line-height: 120px;
+  font-weight: bold;
+}
+
+#Channel2_info {
+  color: white;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-size: 120%;
+  margin-top: 12px;
+  margin-left: 12px;
+  text-align: start;
+}
+
+a {
+  text-decoration: none;
+}
