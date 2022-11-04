@@ -14,7 +14,7 @@ export default function Banner() {
             passionate about teaching and I have got two channels for that:
           </p>
         </div> */}
-        <div id="Banner_text">
+        {/* <div id="Banner_text">
           <h1>
             <span>I am a</span>
             <div class="message">
@@ -23,7 +23,23 @@ export default function Banner() {
               <div class="word3">Teacher</div>
             </div>
           </h1>
-        </div>
+        </div> */}
+
+
+        <section class="wrapper">
+
+          <h2 class="sentence">I am a
+            <div class="slidingVertical">
+              <span>software engineer.</span>
+              <span>YouTuber.</span>
+              <span>Teacher.</span>
+            </div>
+          </h2>
+
+        </section>
+
+
+
 
         <div id="Banner_image">
           <img
